@@ -1,5 +1,4 @@
 ### Hi there, i'm MrPictYT 👋
-Well Maybe You Can Call Me "OnlyEARA"
 
 ### Here are my status now:
 
