@@ -1,11 +1,13 @@
-### Hi there, i'm MrPictYT 👋
+## Hi there, i'm BryanGIG 👋
 
-### Here are my profile now:
+## Profile stats :
+![](https://github-readme-stats.vercel.app/api?username=MrPictYT-art&show_icons=true&theme=radical)
+
+## Here are my profile now:
 
 - 🔭 I’m currently working on Developing Android Apk
 - 🌱 I’m currently learning for any intresting thing
 - ⚡ I'm like using Kotlin
-<br />
 
 ## Contact Person :
 
