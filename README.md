@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on Developing Android Apk
 - 🌱 I’m currently learning for any intresting thing
-- ⚡ I'm like using Kotlin
+- ⚡ I like using : <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPictYT-art&theme=dracula&layout=compact&hide_border=true)
+
 
 ## Contact Person :
 
