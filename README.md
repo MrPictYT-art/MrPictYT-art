@@ -1,6 +1,6 @@
 ## Profile stats :
-![](https://github-readme-stats.vercel.app/api?username=MrPictYT-art&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPictYT-art&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=MrPictYT-art&count_private=true&show_icons=true&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPictYT-art&layout=compact&show_icons=true&theme=radical)<br/>
 
 ## Here are my profile now:
 
