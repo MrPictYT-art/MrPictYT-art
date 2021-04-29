@@ -4,7 +4,7 @@
 
 ## Here are my profile now:
 
-- 🔭 I’m currently working on Developing Android Apk
+- 🔭 I’m currently making mod for some android game
 - 🌱 I’m currently learning for any intresting thing
 
 ## Contact Person :
