@@ -3,9 +3,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPictYT-art&layout=compact&show_icons=true&theme=radical)<br/>
 
 ## My Profile:
-- kotlin lovers 
+- currently learning on kotlin,java,c++ 
 - making mod for some android game
-- learning for any intresting thing
+- i like developing tools with kotlin 
 
 ## Contact Person :
 - Discord : BryanGIG#6254
