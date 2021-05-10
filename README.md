@@ -1,7 +1,7 @@
 ## Profile stats :
-![](https://komarev.com/ghpvc/?username=MrPictYT-art&color=red&style=flat-square)<br/>
-![](https://github-readme-stats.vercel.app/api?username=MrPictYT-art&count_private=true&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPictYT-art&layout=compact&show_icons=true&theme=radical)<br/>
+![](https://komarev.com/ghpvc/?username=BryanGIG&color=red&style=flat-square)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BryanGIG&count_private=true&show_icons=true&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGIG&layout=compact&show_icons=true&theme=radical)<br/>
 
 ## My Profile:
 - currently learning on kotlin,java,c++ 
