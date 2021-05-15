@@ -9,5 +9,5 @@
 - i like developing tools with kotlin 
 
 ## Contact Person :
-- <a href="https://t.me/BryanGIG"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-cyan?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 - Discord : BryanGIG#6254
+- [Telegram Contact](https://t.me/BryanGIG)
